@@ -1,0 +1,15 @@
+C, 13, Bld-90, 1
+C, 12, Bld-32, 2
+C, 11, Bld-71, 1
+S, 102, Strauss, *6860 49 Hasivim St. Petach Tikva
+S, 101, Osem, 1-700-70-76-76
+E, 1001, Alice, 45.5, 11
+E, 1003, Bob, 45.5, 12
+E, 1002, Charlie, 45.5, 12
+E, 1004, Dan, 45.5, 13
+P, 9001, Latte, 6
+P, 9004, Water, 7
+P, 9005, Magnum, 8
+P, 9002, Salad, 21
+P, 9003, Cafe & Mahafe, 11
+P, 9006, Chocolate, 8
